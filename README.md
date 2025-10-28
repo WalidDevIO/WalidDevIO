@@ -40,6 +40,3 @@ Pas de limites, juste des horizons à explorer. Chaque technologie est un nouvea
 ## 📫 Contact
 - Email: contact@walidlab.dev
 - Site web: https://walidlab.dev
-
-## 💡 Philosophie
-Apprendre en permanence, explorer les nouvelles technologies, et repousser constamment mes limites.
